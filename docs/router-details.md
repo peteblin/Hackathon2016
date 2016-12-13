@@ -57,7 +57,7 @@ Mike O'Brien|US East (N. Virginia)|nov-mobrien|34.192.191.164 |nov-core-01|
 Naomoto Matsuki|Asia Pacific (Seoul)|seo-nmatsuki|52.78.93.58|seo-core-01|seo-vlam,seo-eyoon  
 Paul Woodward|EU (Ireland)|ire-pwoodward|52.211.196.205 |ire-core-01| 
 Perry Krol|EU (Ireland)|ire-pkrol|52.213.198.207 |ire-core-01|ire-dwray
-Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas| |ohi-core-01| 
+Peter Blinstrubas|US East (Ohio)|ohi-pblinstrubas|34.194.232.165 |ohi-core-01| 
 Ramesh Natarajan|US West (Oregon)|ore-rnatarajan|35.165.12.105|cal-core-01| 
 Robert Hsieh|Asia Pacific (Singapore)|sgp-rhsieh| 54.254.159.145 |sgp-core-01| 
 Rodrigo Abreu|US East (Ohio)|ohi-rabreu| |ohi-core-01| 
